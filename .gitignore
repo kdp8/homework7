@@ -1,0 +1,7 @@
+venv
+images
+.python_history
+__pycache__/
+*.py[cod]
+*$py.class
+qr_codes
